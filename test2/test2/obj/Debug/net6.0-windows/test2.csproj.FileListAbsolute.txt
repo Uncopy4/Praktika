@@ -1,0 +1,17 @@
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.csproj.AssemblyReference.cache
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.csproj.GenerateResource.cache
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.AssemblyInfoInputs.cache
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.AssemblyInfo.cs
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.csproj.CoreCompileInputs.cache
+E:\Linnix\Programming\C#\test2\test2\bin\Debug\net6.0-windows\test2.exe
+E:\Linnix\Programming\C#\test2\test2\bin\Debug\net6.0-windows\test2.deps.json
+E:\Linnix\Programming\C#\test2\test2\bin\Debug\net6.0-windows\test2.runtimeconfig.json
+E:\Linnix\Programming\C#\test2\test2\bin\Debug\net6.0-windows\test2.dll
+E:\Linnix\Programming\C#\test2\test2\bin\Debug\net6.0-windows\test2.pdb
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.Form1.resources
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.dll
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\refint\test2.dll
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.pdb
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\test2.genruntimeconfig.cache
+E:\Linnix\Programming\C#\test2\test2\obj\Debug\net6.0-windows\ref\test2.dll
